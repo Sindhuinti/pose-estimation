@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[view demo]()
+[view demo](https://amazing-selkie-41e031.netlify.app/)
 
 
 ## Author 
